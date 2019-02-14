@@ -1,0 +1,5 @@
+﻿  Play.cpp
+c:\users\edge02\desktop\tetrix\play.cpp(64): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+  tetrix.vcxproj -> C:\Users\EDGE02\Desktop\tetrix\Debug\tetrix.exe
+  tetrix.vcxproj -> C:\Users\EDGE02\Desktop\tetrix\Debug\tetrix.pdb (Full PDB)
